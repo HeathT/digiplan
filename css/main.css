@@ -19,3 +19,8 @@
     font-size: 18px;  
     text-align: center;
 }
+
+.columnLeft {
+    margin-left: 15px;
+    float:left;
+}
