@@ -1,0 +1,21 @@
+.centerText {
+    position: absolute; 
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 32px;  
+    color: #C0C0C0;
+    text-align: center;
+    /* visibility: hidden; */
+}
+
+.centerContent {
+    position: absolute; 
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 18px;  
+    text-align: center;
+}
